@@ -1,5 +1,7 @@
 # azure-VirtualDatacenter
+
 ARM Templates and Scripts for Deploying a Virtual Datacenter in Azure
+
 ---
 ## Network
 This template Deploys the base networking components for the VDC. The template includes accomodations for a Production and Development subscription linked by VNet Peering
